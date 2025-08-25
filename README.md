@@ -29,32 +29,4 @@ Here are some ideas to get you started:
     alt="Github Stats"
     />
 </div>
-
----
-    
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=BabelCranel&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
   ---
-  
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/BabelCranel/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
